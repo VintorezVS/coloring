@@ -10,6 +10,9 @@
   "author": "Sergey Chernyshenko",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.6.1"
+    "autotrace": "0.0.2",
+    "bitmap2vector": "0.0.4",
+    "canvas": "^2.6.1",
+    "potrace": "^2.1.6"
   }
 }
