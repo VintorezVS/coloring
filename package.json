@@ -10,9 +10,9 @@
   "author": "Sergey Chernyshenko",
   "license": "ISC",
   "dependencies": {
-    "autotrace": "0.0.2",
-    "bitmap2vector": "0.0.4",
-    "canvas": "^2.6.1",
-    "potrace": "^2.1.6"
+    "@svgdotjs/svg.js": "~3.0.16",
+    "@svgdotjs/svg.topoly.js": "~1.0.3",
+    "bitmap2vector": "~0.0.4",
+    "svgdom": "~0.1.7"
   }
 }
